@@ -12,5 +12,5 @@ function draw() {
   fill(255);
   textSize(32);
   textFont("serif");
-  text("坂", 68, 100);
+  text("50", 68, 100);
 }
